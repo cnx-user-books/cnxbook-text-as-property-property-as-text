@@ -1,0 +1,37 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10217</md:content-id>
+    <md:title>Text as Property/Property as Text</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
+    <md:uuid>cb6e3963-aaee-41f1-b997-69e599229f8d</md:uuid>
+<md:slug>text-as-property-property-as-text</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>General Info</md:title>
+      <col:content>
+        <col:module document="m11790"/>
+        <col:module document="m11788"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part 1: Ownership</md:title>
+      <col:content>
+        <col:module document="m11795"/>
+        <col:module document="m11802"/>
+        <col:module document="m11803"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part 2: Authorship</md:title>
+      <col:content>
+        <col:module document="m11819"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part 3: Alternatives</md:title>
+      <col:content/>
+    </col:subcollection>
+  </col:content>
+</col:collection>
